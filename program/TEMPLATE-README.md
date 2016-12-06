@@ -6,11 +6,11 @@
 > Remove this notice and replace any TBA sections you can. Feel free to leave
 > those you cannot.
 
-**Format**: TBA - e.g. "Talk, 40 minutes" or "Workshop, 2 hours"
+**Format**: *TBA - e.g. "Talk, 40 minutes" or "Workshop, 2 hours"*
 
-**Topics**: TBA - High-level topics covered (e.g. "Datomic, core.spec", "ClojureScript")
+**Topics**: *TBA - High-level topics covered (e.g. "Datomic, core.spec", "ClojureScript")*
 
-TBD - Description of the talk.
+*TBD - 1-2 paragraphs describing the session and what attendees can hope to learn from it.*
 
 ## About The Author
 
@@ -19,10 +19,12 @@ information.*
 
 ### Biographic Details
 
- - Time Zone: TBA - e.g. UTC+1, Central Standard Time, ...
+ - Time Zone: *TBA - e.g. UTC+1, Central Standard Time, ...*
  - Website: [TBA][website]
  - Github: [TBA][github]
 
 
-[website](TBA - Any web property you would like to link to)
-[github](TBA - e.g. https://github.com/clojureremote)
+> TBA: Replace any links you would likebelow
+
+[website]: https://example.com
+[github]: https://github.com/clojureremote
