@@ -13,6 +13,8 @@ We are more than happy to consider pull-requests improving this repository, but 
 - This is a *conference* repository, not an active software projects. We'll gladly accept PRs for bugs, typos or other small improvements. Large changes or additions should be discussed with the organizers or speaker, as they may or may not fit their vision of the conference/session.
 - A speaker's talk folder is theirs. As organizers we are here to help facilitate a conversation, but at the end of the day it's a speaker's call what is in or out in their talk.
 
+**New speakers should visit [program/TEMPLATE-README.md](program/TEMPLATE-README.md) for information on updating their program details.**
+
 ## License
 
 Copyright (c) 2016 Homegrown Labs Ltd.
