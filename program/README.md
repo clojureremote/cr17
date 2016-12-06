@@ -10,25 +10,13 @@ session.
 
 ## Confirmed Sessions
 
-- 2-3h [Breakout Session] [breakout] (speaker participation, day 2)
-- [Clojure.spec workshop (2h) - Yehonathan Sharvit] [yehonathan]
-- ["Building Composable Abstractions" workshop (1h) - Eric Normand] [ericnormand]
-- ["Config You Know Plus Some Love" - Anatoly Polinksy] [anatoly]
-- [Arachne Talk/Workshop - Luke Vanderhart] [arachne]
-- [Spec/Onyx Experience Report (40m) - Simon Belak] [simon]
-- [Hoplin Tutorial (40m) - Matt Ratzke] [simon]
-- ["An Archaeology Inspired Database" (40m) - Yoav Rubin] [yoav]
-- [Keynote: "The Value of Learning" (1h) - Jay Martin] [jay]
-- [Clojure, AWS & Lambda - Nicholas Shook] [nicholas]
-
-
-[breakout]: <program/Breakout Sessions>
-[anatoly]: <program/Talk - Anatoly Polinksy - Config You Know Plus Some Love>
-[vanderhart]: <program/TBA - Luke Vanderhart - Arachne>
-[yehonathan]: <program/Workshop - Yehonathan Sharvit - core.spec>
-[ericnormand]: <program/Workshop - Eric Normand - Building Composable Abstractions>
-[simon]: <program/Talk - Simon Belak - Spec & Onyx>
-[matt]: <program/Talk - Matt Ratzke - Hoplon Tutorial>
-[yoav]: <program/Talk - Yoav Rubin - An Archaeology Inspired Database>
-[jay]: <program/Keynote - Jay Martin - The Value of Learning>
-[nicholas]: <program/Talk - Nicholas Shook - Clojure, AWS & Lambda>
+- 2-3h [Breakout Session](program/Breakout Sessions) with speaker participation on day 2
+- [Clojure.spec workshop (2h)](program/Workshop - Yehonathan Sharvit - core.spec) - Yehonathan Sharvit
+- ["Building Composable Abstractions" workshop (1h)](program/Workshop - Eric Normand - Building Composable Abstractions)  - Eric Normand
+- ["Config You Know Plus Some Love" (40m)](program/Talk - Anatoly Polinksy - Config You Know Plus Some Love) - Anatoly Polinksy
+- [Arachne Talk/Workshop](program/TBA - Luke Vanderhart - Arachne) - Luke Vanderhart
+- [Spec/Onyx Experience Report (40m)](program/Talk - Simon Belak - Spec & Onyx) - Simon Belak
+- [Hoplin Tutorial (40m)](program/Talk - Matt Ratzke - Hoplon Tutorial) - Matt Ratzke
+- ["An Archaeology Inspired Database" (40m)](program/Talk - Yoav Rubin - An Archaeology Inspired Database) - Yoav Rubin
+- [Keynote: "The Value of Learning" (1h)](program/Keynote - Jay Martin - The Value of Learning) - Jay Martin
+- [Clojure, AWS & Lambda (40m)](program/Talk - Nicholas Shook - Clojure, AWS & Lambda) - Nicholas Shook
