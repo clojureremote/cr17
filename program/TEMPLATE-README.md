@@ -1,7 +1,9 @@
 # "Your Session Title" - \<Your Name\>
 
 > This template should be copied to the folder
-> `program/<Name> - <Title>/README.md`.
+> `program/<Session Type> - <Name> - <Title>/README.md`. 
+>
+> See existing examples in program/ for a better idea.
 >
 > Remove this notice and replace any TBA sections you can. Feel free to leave
 > those you cannot.
