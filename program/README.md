@@ -10,13 +10,13 @@ session.
 
 ## Confirmed Sessions
 
-- 2-3h [Breakout Session](program/Breakout Sessions) with speaker participation on day 2
-- [Clojure.spec workshop (2h)](program/Workshop - Yehonathan Sharvit - core.spec) - Yehonathan Sharvit
-- ["Building Composable Abstractions" workshop (1h)](program/Workshop - Eric Normand - Building Composable Abstractions)  - Eric Normand
-- ["Config You Know Plus Some Love" (40m)](program/Talk - Anatoly Polinksy - Config You Know Plus Some Love) - Anatoly Polinksy
-- [Arachne Talk/Workshop](program/TBA - Luke Vanderhart - Arachne) - Luke Vanderhart
-- [Spec/Onyx Experience Report (40m)](program/Talk - Simon Belak - Spec & Onyx) - Simon Belak
-- [Hoplin Tutorial (40m)](program/Talk - Matt Ratzke - Hoplon Tutorial) - Matt Ratzke
-- ["An Archaeology Inspired Database" (40m)](program/Talk - Yoav Rubin - An Archaeology Inspired Database) - Yoav Rubin
-- [Keynote: "The Value of Learning" (1h)](program/Keynote - Jay Martin - The Value of Learning) - Jay Martin
-- [Clojure, AWS & Lambda (40m)](program/Talk - Nicholas Shook - Clojure, AWS & Lambda) - Nicholas Shook
+- 2-3h [Breakout Session](Breakout Sessions) with speaker participation on day 2
+- [Clojure.spec workshop (2h)](Workshop - Yehonathan Sharvit - core.spec) - Yehonathan Sharvit
+- ["Building Composable Abstractions" workshop (1h)](Workshop - Eric Normand - Building Composable Abstractions)  - Eric Normand
+- ["Config You Know Plus Some Love" (40m)](Talk - Anatoly Polinksy - Config You Know Plus Some Love) - Anatoly Polinksy
+- [Arachne Talk/Workshop](TBA - Luke Vanderhart - Arachne) - Luke Vanderhart
+- [Spec/Onyx Experience Report (40m)](Talk - Simon Belak - Spec & Onyx) - Simon Belak
+- [Hoplin Tutorial (40m)](Talk - Matt Ratzke - Hoplon Tutorial) - Matt Ratzke
+- ["An Archaeology Inspired Database" (40m)](Talk - Yoav Rubin - An Archaeology Inspired Database) - Yoav Rubin
+- [Keynote: "The Value of Learning" (1h)](Keynote - Jay Martin - The Value of Learning) - Jay Martin
+- [Clojure, AWS & Lambda (40m)](Talk - Nicholas Shook - Clojure, AWS & Lambda) - Nicholas Shook
