@@ -22,7 +22,7 @@ session.
 - [Clojure, AWS & Lambda - Nicholas Shook] [nicholas]
 
 
-[breakout]: <program/Breakout Sessions>
+[breakout]: program/Breakout\ Sessions
 [anatoly]: <program/Talk - Anatoly Polinksy - Config You Know Plus Some Love>
 [vanderhart]: <program/TBA - Luke Vanderhart - Arachne>
 [yehonathan]: <program/Workshop - Yehonathan Sharvit - core.spec>
