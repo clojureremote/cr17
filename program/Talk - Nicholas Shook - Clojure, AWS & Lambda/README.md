@@ -6,7 +6,7 @@
 > Remove this notice and replace any TBA sections you can. Feel free to leave
 > those you cannot.
 
-**Format**: Workshop, 2 hours
+**Format**: Talk, 40 Minutes
 
 **Topics**: AWS infrastructure for running Serverless Clojure Lambda functions: Cloudformation, VPC, Security Groups, RDS, API Gateway, AWS Cognito, and Cloudwatch.
 
@@ -19,8 +19,8 @@ Nicholas Shook is a developer and lawyer from Las Vegas. He has worked most rece
 ### Biographic Details
 
  - Time Zone: *TBA - e.g. UTC+1, Central Standard Time, ...*
- - Website: [TBA][website]
- - Github: [TBA][github]
+ - Website: [1337 Lawyers][website]
+ - Github: [shicholas][github]
 
 [website]: https://blog.1337lawyers.com
 [github]: https://github.com/shicholas
