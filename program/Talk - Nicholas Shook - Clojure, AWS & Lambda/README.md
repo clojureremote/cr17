@@ -1,4 +1,4 @@
-# "Your Session Title" - \<Your Name\>
+# "Serverless Clojure on AWS" - Nicholas Shook
 
 > This template should be copied to the folder
 > `program/<Name> - <Title>/README.md`.
@@ -6,25 +6,21 @@
 > Remove this notice and replace any TBA sections you can. Feel free to leave
 > those you cannot.
 
-**Format**: *TBA - e.g. "Talk, 40 minutes" or "Workshop, 2 hours"*
+**Format**: Talk, 40 Minutes
 
-**Topics**: *TBA - High-level topics covered (e.g. "Datomic, core.spec", "ClojureScript")*
+**Topics**: AWS infrastructure for running Serverless Clojure Lambda functions: Cloudformation, VPC, Security Groups, RDS, API Gateway, AWS Cognito, and Cloudwatch.
 
-*TBD - 1-2 paragraphs describing the session and what attendees can hope to learn from it.*
+TBD
 
 ## About The Author
 
-*TBA - Replace with 1-2 paragraphs describing yourself and relevant background
-information.*
+Nicholas Shook is a developer and lawyer from Las Vegas. He has worked most recently as the technical founder of [Stealth Worker](https://www.stealthworker.com) and has created the website for the [Vendor Security Alliance](https://www.vendorsecurityalliance.org) using serverless architecture.
 
 ### Biographic Details
 
  - Time Zone: *TBA - e.g. UTC+1, Central Standard Time, ...*
- - Website: [TBA][website]
- - Github: [TBA][github]
+ - Website: [1337 Lawyers][website]
+ - Github: [shicholas][github]
 
-
-> TBA: Replace any links you would likebelow
-
-[website]: https://example.com
-[github]: https://github.com/clojureremote
+[website]: https://blog.1337lawyers.com
+[github]: https://github.com/shicholas
