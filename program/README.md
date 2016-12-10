@@ -20,3 +20,4 @@ session.
 - ["An Archaeology Inspired Database" (40m)](Talk - Yoav Rubin - An Archaeology Inspired Database) - Yoav Rubin
 - [Keynote: "The Value of Learning" (1h)](Keynote - Jay Martin - The Value of Learning) - Jay Martin
 - [Clojure, AWS & Lambda (40m)](Talk - Nicholas Shook - Clojure, AWS & Lambda) - Nicholas Shook
+- [Lessons from 4 years with Datomic (40m)](Talk - Robert Stuttaford - Lessons from 4 years with Datomic) - Robert Stuttaford
