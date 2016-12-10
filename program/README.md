@@ -16,7 +16,7 @@ session.
 - ["Config You Know Plus Some Love" (40m)](Talk - Anatoly Polinksy - Config You Know Plus Some Love) - Anatoly Polinksy
 - [Arachne Talk/Workshop](TBA - Luke Vanderhart - Arachne) - Luke Vanderhart
 - [Spec/Onyx Experience Report (40m)](Talk - Simon Belak - Spec & Onyx) - Simon Belak
-- [Hoplin Tutorial (40m)](Talk - Matt Ratzke - Hoplon Tutorial) - Matt Ratzke
+- [Hoplon Tutorial (40m)](Talk - Matt Ratzke - Hoplon Tutorial) - Matt Ratzke
 - ["An Archaeology Inspired Database" (40m)](Talk - Yoav Rubin - An Archaeology Inspired Database) - Yoav Rubin
 - [Keynote: "The Value of Learning" (1h)](Keynote - Jay Martin - The Value of Learning) - Jay Martin
 - [Clojure, AWS & Lambda (40m)](Talk - Nicholas Shook - Clojure, AWS & Lambda) - Nicholas Shook
