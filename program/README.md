@@ -21,3 +21,4 @@ session.
 - [Keynote: "The Value of Learning" (1h)](Keynote - Jay Martin - The Value of Learning) - Jay Martin
 - [Clojure, AWS & Lambda (40m)](Talk - Nicholas Shook - Clojure, AWS & Lambda) - Nicholas Shook
 - [Lessons from 4 years with Datomic (40m)](Talk - Robert Stuttaford - Lessons from 4 years with Datomic) - Robert Stuttaford
+- [Clojure at Scale (40m)](Talk - Lucas Cavalcanti - Clojure at Scale) - Lucas Cavalcanti
