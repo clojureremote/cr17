@@ -1,7 +1,7 @@
 # "Designing a Database like an Archaeologist" - Yoav Rubin
 
 
-**Format**:Talk, 60 minutes
+**Format**:Talk, 40 minutes
 
 **Topics**: Software design, databases, Datomic
 
