@@ -22,3 +22,4 @@ session.
 - [Clojure, AWS & Lambda (40m)](Talk - Nicholas Shook - Clojure, AWS & Lambda) - Nicholas Shook
 - [Lessons from 4 years with Datomic (40m)](Talk - Robert Stuttaford - Lessons from 4 years with Datomic) - Robert Stuttaford
 - [Clojure at Scale (40m)](Talk - Lucas Cavalcanti - Clojure at Scale) - Lucas Cavalcanti
+- [ZeroMQ for Clojurists (40m)](Talk - Dave Yarwood - ZeroMQ for Clojurists) - Dave Yarwood
