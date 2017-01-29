@@ -1,30 +1,18 @@
-# "Your Session Title" - \<Your Name\>
+# Spec + Onyx: an experience report - Simon Belak
 
-> This template should be copied to the folder
-> `program/<Name> - <Title>/README.md`.
->
-> Remove this notice and replace any TBA sections you can. Feel free to leave
-> those you cannot.
+**Format**: Talk, 40 minutes
 
-**Format**: *TBA - e.g. "Talk, 40 minutes" or "Workshop, 2 hours"*
+**Topics**: core.spec, Onyx, Kafka, ETL
 
-**Topics**: *TBA - High-level topics covered (e.g. "Datomic, core.spec", "ClojureScript")*
+Clojure has always been good at manipulating data. With the release of spec and [Onyx](https://github.com/onyx-platform/onyx) (_“a masterless, cloud scale, fault tolerant, high performance distributed computation system”_) good became best. In this talk you will learn about a data layer architecture build around Kafka and Onyx that is self-describing, declarative, scalable and convenient to work with for the end user. The focus will be on the power and elegance of describing data and computation with data; and the inferences and automations that can be built on top of that.
 
-*TBD - 1-2 paragraphs describing the session and what attendees can hope to learn from it.*
 
 ## About The Author
 
-*TBA - Replace with 1-2 paragraphs describing yourself and relevant background
-information.*
+Simon Belak is the Chief Analytics Officer at GoOpti where he is in charge of making the company data-driven; building analytics infrastructure (end goal: provide any answer stemming from data in 2 min or less); and developing a predictive real-time pricing engine. Before GoOpti he worked with over 20 startups and growth companies helping them become data driven and set up (or level up) their analytics departments.
 
 ### Biographic Details
 
- - Time Zone: *TBA - e.g. UTC+1, Central Standard Time, ...*
- - Website: [TBA][website]
- - Github: [TBA][github]
-
-
-> TBA: Replace any links you would likebelow
-
-[website]: https://example.com
-[github]: https://github.com/clojureremote
+ - Time Zone: UTC+1
+ - Twitter: [@sbelak](https://twitter.com/sbelak)
+ - Github: [github](github.com/sbelak)
