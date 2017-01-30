@@ -14,10 +14,16 @@
 
 The talk is about often "left for later" concern when creating things. It is about application configuration.
 There is no unique way to do it right, but there definitely are concerns caused by environmental differences,
-configuration data structures and security.
+configuration data structures, validation, versioning and security.
 
 There is a well known [Config section](https://12factor.net/config) in twelve-factor methodology, but as I mentioned,
-there is no unique way to "do it right", and I believe in Clojure, with rich data structures and ubiquitous reach of JVM libraries, we can do much better than that.
+there is no unique way to "do it right", and I believe in Clojure, with rich data structures and ubiquitous reach of JVM libraries,
+we can do much better than that.
+
+This talk will expand the meaning behind the word "configuration", will apply words such as
+`programmable`, `functional`, `queryable` and `secure` to it, and will take you
+on [a journey to explore the universe](https://www.dotkam.com/2017/01/10/hubble-space-mission-securely-configured/) nebula by nebula
+with [cprop](https://github.com/tolitius/cprop), [envoy](https://github.com/tolitius/envoy) and friends.
 
 ## About The Author
 
