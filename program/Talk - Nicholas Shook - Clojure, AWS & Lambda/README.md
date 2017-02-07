@@ -10,7 +10,7 @@ In this talk, I will go over how to set up a serverless architecture on AWS usin
 
 ## About The Author
 
-Nicholas Shook is a developer and lawyer from Las Vegas. He has worked most recently as the technical founder of [Stealth Worker](https://www.stealthworker.com) and has created the website for the [Vendor Security Alliance](https://www.vendorsecurityalliance.org) using serverless architecture.
+Nicholas Shook is a developer and lawyer from Las Vegas where he works for [The Apothecary Shoppe](http://theapothecaryshoppe.com/cannabis-menu/), a medical marijuana dispensary, and [1337 Lawyers](https://www.1337lawyers.com), a law firm emphasizing automation to advance access of justice.
 
 ### Biographic Details
 
